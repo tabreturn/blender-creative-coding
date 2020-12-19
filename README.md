@@ -6,6 +6,10 @@ So, Processing has [Python Mode](https://tabreturn.github.io/#processing-reverse
 
 Sound exciting? You can [get started now](https://tabreturn.github.io/#blender-reverse).
 
+## Scripts
+
+<a href="wavy_cones.py"><img src="wavy_cones.gif" height="200" /></a>
+
 ## Some Useful Links
 
 I couldn't have pulled this off without some help from these sources:
