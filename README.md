@@ -36,6 +36,7 @@ I couldn't have pulled this off without some help from these sources:
 * https://blog.lightprocesses.com/
 * https://github.com/a1studmuffin/SpaceshipGenerator
 * https://github.com/manujarvinen/Blender-Python-scripts
+* https://ylegall.github.io/
 
 ## Help
 
